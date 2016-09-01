@@ -3,7 +3,7 @@ package nyc.c4q.abassawo;
 public class Main {
 
     public static void main(String[] args) {
-       Vehicle vehicle = new Bicycle(0.0);
+       Vehicle vehicle = new Bicycle();
 
         vehicle = new AstonMartin();
 
